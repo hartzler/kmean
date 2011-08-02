@@ -1,0 +1,9 @@
+k-mean classifier.  use like so:
+
+MHARTZLER-SNOW:kmean matt$ cat titles.txt | ruby kmean.rb 3 10
+
+["apple layoffs affect workforce", "apple rules after layoffs", "apple down after layoffs", "layoffs from apple a sign"]
+
+["asfd foobar", "dogs and cats angry", "will dogs and cats ruin everything", "dogs and cats rebel"]
+
+["does anybody want microsoft stock", "microsoft sells some stock", "microsoft stock prices", "when will microsoft stock fall"]
